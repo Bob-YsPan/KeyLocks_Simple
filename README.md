@@ -7,7 +7,7 @@ Simple Keylocks LEDs Indicator
 
 * 低系統資源用量  
   Low system resources cost  
-  (Icon only update at status change(scan every 100ms))
+  (Icon only update at status change(scan every 80ms))
 * 懸浮視窗功能(可隱藏)  
   Floating window(Hideable)
 * 就是。很。簡。單。  
