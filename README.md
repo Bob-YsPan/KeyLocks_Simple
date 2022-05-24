@@ -30,19 +30,19 @@ Simple Keylocks LEDs Indicator
 ### 如何在登入的時候就啟動這個程式？
 
 1. Extract the program to a folder(Program will start from here)  
-   解壓程式到一個資料夾(之後程式從這裡執行)
-![Step1](https://i.imgur.com/0WkVqCk.png)
+   解壓程式到一個資料夾(之後程式從這裡執行)  
+   ![Step1](https://i.imgur.com/0WkVqCk.png)  
 
 2. Create Shortcut  
-   建立捷徑
-![Step2](https://i.imgur.com/RSHexn1.png)
+   建立捷徑  
+   ![Step2](https://i.imgur.com/RSHexn1.png)  
 
 3. Rename it  
-   重命名
-![Step3](https://i.imgur.com/P60fDng.png)
+   重命名  
+   ![Step3](https://i.imgur.com/P60fDng.png)  
 4. Move shortcut to startup folder  
-   將捷徑移動到"啟動"資料夾
-![Step4](https://i.imgur.com/s09Kx8k.png)
+   將捷徑移動到"啟動"資料夾  
+   ![Step4](https://i.imgur.com/s09Kx8k.png)  
    **For current user(目前使用者登入時):**  
    `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`  
    **For all users(所有人登入時):**  
