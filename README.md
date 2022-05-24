@@ -31,18 +31,18 @@ Simple Keylocks LEDs Indicator
 
 1. Extract the program to a folder(Program will start from here)  
    解壓程式到一個資料夾(之後程式從這裡執行)
-![](https://i.imgur.com/0WkVqCk.png)
+![Step1](https://i.imgur.com/0WkVqCk.png)
 
 2. Create Shortcut  
    建立捷徑
-![](https://i.imgur.com/RSHexn1.png)
+![Step2](https://i.imgur.com/RSHexn1.png)
 
 3. Rename it  
    重命名
-![](https://i.imgur.com/P60fDng.png)
-4. Copy shortcut to startup folder  
-   將捷徑複製到"啟動"資料夾
-![](https://i.imgur.com/s09Kx8k.png)
+![Step3](https://i.imgur.com/P60fDng.png)
+4. Move shortcut to startup folder  
+   將捷徑移動到"啟動"資料夾
+![Step4](https://i.imgur.com/s09Kx8k.png)
    **For current user(目前使用者登入時):**  
    `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`  
    **For all users(所有人登入時):**  
